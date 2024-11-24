@@ -1,2 +1,2 @@
 # WikiOlelo
-A Chrome extension to help you dive into more Wikipedia pages in that intermediate language you’re working on.
+A Chrome extension that turns your obsessive-compulsive Wikipedia roaming into a whole new different language-learning spree, in whichever language you're working on (assuming you have at least intermediate level skills).
